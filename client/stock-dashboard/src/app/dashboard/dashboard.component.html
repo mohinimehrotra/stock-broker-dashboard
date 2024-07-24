@@ -1,0 +1,8 @@
+<div class="dashboard-container">
+  <mat-card *ngFor="let stock of stocks">
+    <mat-card-title>{{ stock }}</mat-card-title>
+    <mat-card-content>
+      <p>{{ subscribedStocks[stock] || 'Loading...' }}</p>
+    </mat-card-content>
+  </mat-card>
+</div>
