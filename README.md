@@ -46,6 +46,9 @@ This project is a Stock Broker Client Web Dashboard that allows users to:
 
 ## Usage
 1.Ensure the backend server is running.
+
 2.Open the frontend application in your browser at http://localhost:4200.
+
 3.Log in using your email.
+
 4.Subscribe to the stocks and view real-time updates.
